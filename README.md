@@ -4,6 +4,8 @@ This is a Next.js application built with Firebase Studio, designed to be an AI-p
 
 ## Demo
 
+[Youtube Video](https://www.youtube.com/watch?v=jLQ7S8b6kWQ)
+
 [![Crowd Control AI - Agentic AI Day](https://img.youtube.com/vi/jLQ7S8b6kWQ/0.jpg)](https://www.youtube.com/watch?v=jLQ7S8b6kWQ)
 
 ## Getting Started
